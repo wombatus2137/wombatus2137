@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wombatus2137
 - 📫 How to reach me:
-  - 🎯 About specific project use Issues if applicable
+  - 🎯 About specific project use Issues or Discussions if applicable
   - 🤔 Otherwise you can reach me on (idk, something)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know how to code let alone use Git
